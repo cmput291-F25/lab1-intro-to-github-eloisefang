@@ -2,4 +2,4 @@
 Name: Eloise Fang 
 CCID: chenan1
 Lecture: A2
-Lab: B-02
+Lab: D05
